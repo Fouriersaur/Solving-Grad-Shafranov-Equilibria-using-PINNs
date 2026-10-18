@@ -3,4 +3,4 @@
 * Benchmarked PINN-calculated magnetic flux against analytical solutions of the PDE
 * Applied different activation functions for the PINN and recorded their respective performance
 
-Declaration: Project inspired by a summer project group in Imperial College London 2025
+Declaration: Project inspired by a summer project group in Imperial College London 2025 from Yash Pincha
